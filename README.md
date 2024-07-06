@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and coding 
 - 🌱 I’m currently learning computer science 
 - 💞️ I’m looking to collaborate on database,c++,web technology and javascript
-- 📫 How to reach me on Instagram @ Khedd_lem
+- 📫 How to reach me on Instagram @ Khedd_lem or click the link on my profile
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
